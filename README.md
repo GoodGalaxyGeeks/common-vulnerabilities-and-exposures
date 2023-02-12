@@ -4,4 +4,8 @@ CVE Exploits on Productions
 
 Use Exploit Details for use kind of Cross site scripting on SQL Monitor version 12.1.31.893 
 
+# Open Redirection Attack [CVE-2022-47871]
+
+Use Exploit Details for use kind ofOpen Redirection Attack on SQL Monitor version 12.1.31.893 
+
 Author : geeklinuxman
